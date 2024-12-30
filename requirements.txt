@@ -1,0 +1,8 @@
+numpy
+pandas
+speach
+langchain-openai
+langchain-anthropic
+moviepy
+openai-whisper
+python-dotenv
